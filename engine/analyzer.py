@@ -67,7 +67,7 @@ Given the user's question, write Python code using pandas to answer it.
 RULES:
 1. The DataFrame is already loaded as `df`. Do NOT read from any file.
 2. Store your final answer in a variable called `result`.
-   - For single numbers: round to 2 decimal places and format as a readable string, e.g. result = f"The average salary is **${avg:,.2f}**"
+   - For single numbers: round to 2 decimal places and format as a readable string, e.g. result = f"The average salary is **${{avg:,.2f}}**"
    - For DataFrames: limit to top 10-20 rows max. Use .head(10) or .nlargest()/.nsmallest() as appropriate.
    - For summaries: build a well-formatted multi-line string with bullet points and sections.
    - ALWAYS make `result` a human-readable formatted string when the answer is a single value.
