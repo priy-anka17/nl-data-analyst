@@ -77,10 +77,14 @@ RULES:
 6. Do NOT import pandas — it's already imported as `pd`.
 7. Do NOT modify the original `df`. Use copies if needed.
 8. Return ONLY the Python code inside a ```python code block. No explanations outside the code block.
-9. Keep code concise — ideally under 30 lines.
+9. Keep code concise — ideally under 30 lines. Focus on ONE clear insight, not many.
 10. For groupby/aggregations, reset_index() so result is a clean DataFrame. Sort by the aggregated column descending.
 11. When grouping by a column, NEVER group by unique ID columns (like employee_id, order_id, etc). Use meaningful categorical columns (department, category, region, etc).
 12. ALWAYS create a `fig` chart when the result is a DataFrame with aggregated data — use bar charts, pie charts, or line charts as appropriate.
+13. NEVER use value_counts(bins=...) with format strings. If you need to bin numeric data, use pd.cut() and convert labels to strings first.
+14. When asked for "insights" or "summary", pick the 3-5 most meaningful stats and format them as a clean markdown string with headers (##) and bullet points. Do NOT try to do too many things.
+15. Only create ONE `fig` variable. If you want multiple charts, pick the single most insightful one.
+16. Always convert values to float/int/str before using format strings. Never format pandas objects directly.
 """
 
 FIX_PROMPT = """\
