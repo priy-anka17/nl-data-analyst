@@ -1,0 +1,501 @@
+order_id,date,product,category,quantity,unit_price,total,region,channel,customer_age,rating
+ORD-0001,2024-04-08,Clothing Item 9,Clothing,1,225.04,225.04,North,Mobile App,65,4.6
+ORD-0002,2024-01-03,Clothing Item 14,Clothing,5,132.35,661.75,South,Mobile App,56,1.1
+ORD-0003,2024-08-19,Sports Item 18,Sports,5,131.65,658.25,North,Online,62,2.7
+ORD-0004,2024-06-04,Books Item 6,Books,2,72.43,144.86,West,Online,40,4.4
+ORD-0005,2024-09-04,Books Item 25,Books,1,221.61,221.61,North,Mobile App,36,4.3
+ORD-0006,2024-02-02,Toys Item 43,Toys,5,65.75,328.75,South,In-Store,23,4.4
+ORD-0007,2024-11-27,Clothing Item 24,Clothing,4,90.6,362.4,South,In-Store,40,1.8
+ORD-0008,2024-03-18,Books Item 47,Books,1,186.64,186.64,South,Online,47,2.5
+ORD-0009,2024-01-08,Sports Item 3,Sports,3,254.42,763.26,East,In-Store,35,1.3
+ORD-0010,2024-07-21,Toys Item 30,Toys,2,200.07,400.14,South,In-Store,26,2.0
+ORD-0011,2024-10-13,Books Item 24,Books,5,134.24,671.2,South,Online,50,3.0
+ORD-0012,2024-03-26,Electronics Item 44,Electronics,1,54.31,54.31,West,Mobile App,22,2.5
+ORD-0013,2024-09-28,Food Item 1,Food,5,82.9,414.5,North,Mobile App,52,4.0
+ORD-0014,2024-03-15,Toys Item 1,Toys,1,95.11,95.11,East,Mobile App,29,3.0
+ORD-0015,2024-09-20,Clothing Item 13,Clothing,3,254.07,762.21,South,In-Store,28,3.2
+ORD-0016,2024-01-04,Electronics Item 24,Electronics,5,104.0,520.0,East,Online,21,2.0
+ORD-0017,2024-02-25,Clothing Item 35,Clothing,1,222.24,222.24,South,Online,60,2.9
+ORD-0018,2024-10-14,Home & Garden Item 14,Home & Garden,3,163.02,489.06,Central,Mobile App,62,1.8
+ORD-0019,2024-11-12,Books Item 29,Books,4,298.58,1194.32,Central,In-Store,25,2.0
+ORD-0020,2024-09-08,Clothing Item 38,Clothing,3,16.09,48.27,South,Online,22,3.8
+ORD-0021,2024-01-28,Electronics Item 22,Electronics,2,29.54,59.08,North,Mobile App,33,2.1
+ORD-0022,2024-12-19,Food Item 37,Food,2,166.37,332.74,West,Online,48,4.2
+ORD-0023,2024-07-12,Sports Item 28,Sports,1,38.1,38.1,West,In-Store,64,1.2
+ORD-0024,2024-06-26,Clothing Item 7,Clothing,1,126.75,126.75,South,Online,30,3.1
+ORD-0025,2024-08-08,Home & Garden Item 5,Home & Garden,4,63.2,252.8,West,Mobile App,24,1.2
+ORD-0026,2024-04-06,Electronics Item 27,Electronics,1,278.64,278.64,West,In-Store,31,4.5
+ORD-0027,2024-07-09,Electronics Item 30,Electronics,2,119.89,239.78,East,In-Store,62,4.8
+ORD-0028,2024-04-02,Food Item 38,Food,2,65.06,130.12,Central,Online,65,2.3
+ORD-0029,2024-09-06,Electronics Item 4,Electronics,5,148.26,741.3,Central,Online,29,1.3
+ORD-0030,2024-10-08,Clothing Item 38,Clothing,2,127.08,254.16,Central,Online,57,1.3
+ORD-0031,2024-12-11,Toys Item 16,Toys,3,69.23,207.69,East,In-Store,26,3.7
+ORD-0032,2024-02-01,Books Item 30,Books,4,101.68,406.72,Central,Mobile App,24,1.3
+ORD-0033,2024-06-03,Sports Item 16,Sports,5,86.9,434.5,East,In-Store,28,2.8
+ORD-0034,2024-11-17,Books Item 1,Books,5,295.31,1476.55,Central,In-Store,60,1.4
+ORD-0035,2024-02-24,Home & Garden Item 36,Home & Garden,3,43.46,130.38,South,In-Store,36,3.4
+ORD-0036,2024-05-17,Toys Item 32,Toys,2,209.36,418.72,East,Online,23,3.5
+ORD-0037,2024-03-21,Books Item 17,Books,1,11.02,11.02,South,Mobile App,46,3.2
+ORD-0038,2024-02-23,Beauty Item 10,Beauty,5,12.79,63.95,Central,Online,41,3.3
+ORD-0039,2024-05-12,Home & Garden Item 3,Home & Garden,4,46.95,187.8,East,Online,61,2.0
+ORD-0040,2024-07-20,Clothing Item 48,Clothing,3,236.22,708.66,South,Online,28,4.9
+ORD-0041,2024-12-11,Home & Garden Item 27,Home & Garden,4,17.18,68.72,South,In-Store,28,4.1
+ORD-0042,2024-08-08,Clothing Item 13,Clothing,4,262.92,1051.68,West,In-Store,37,4.3
+ORD-0043,2024-04-13,Sports Item 22,Sports,2,16.85,33.7,East,Online,35,2.4
+ORD-0044,2024-01-04,Beauty Item 17,Beauty,5,106.02,530.1,South,Mobile App,34,1.2
+ORD-0045,2024-06-14,Beauty Item 39,Beauty,3,221.27,663.81,Central,Online,42,4.6
+ORD-0046,2024-07-01,Sports Item 34,Sports,3,22.86,68.58,Central,Mobile App,64,4.8
+ORD-0047,2024-11-11,Sports Item 40,Sports,3,135.07,405.21,East,Mobile App,25,3.9
+ORD-0048,2024-07-11,Books Item 26,Books,5,99.68,498.4,East,Mobile App,26,1.8
+ORD-0049,2024-05-13,Beauty Item 36,Beauty,2,188.49,376.98,North,In-Store,36,1.8
+ORD-0050,2024-11-07,Toys Item 33,Toys,4,138.11,552.44,West,Mobile App,28,3.6
+ORD-0051,2024-10-11,Books Item 6,Books,5,202.51,1012.55,South,Mobile App,37,1.9
+ORD-0052,2024-04-16,Sports Item 40,Sports,2,17.07,34.14,North,In-Store,44,4.5
+ORD-0053,2024-04-05,Sports Item 42,Sports,4,153.36,613.44,North,Online,45,1.9
+ORD-0054,2024-02-15,Food Item 9,Food,1,171.64,171.64,West,Mobile App,51,5.0
+ORD-0055,2024-12-17,Toys Item 28,Toys,4,187.66,750.64,Central,In-Store,28,4.0
+ORD-0056,2024-04-27,Food Item 41,Food,4,85.16,340.64,East,Mobile App,49,3.5
+ORD-0057,2024-05-08,Books Item 18,Books,4,32.46,129.84,East,In-Store,52,1.3
+ORD-0058,2024-03-23,Home & Garden Item 14,Home & Garden,2,121.07,242.14,North,In-Store,44,2.3
+ORD-0059,2024-07-13,Food Item 50,Food,4,28.05,112.2,Central,Mobile App,19,4.4
+ORD-0060,2024-06-10,Beauty Item 49,Beauty,4,11.7,46.8,West,In-Store,52,4.0
+ORD-0061,2024-07-16,Sports Item 2,Sports,4,73.62,294.48,West,In-Store,60,3.7
+ORD-0062,2024-03-20,Beauty Item 35,Beauty,2,253.74,507.48,North,In-Store,55,3.3
+ORD-0063,2024-03-28,Electronics Item 30,Electronics,1,196.39,196.39,South,Online,34,2.5
+ORD-0064,2024-07-09,Sports Item 49,Sports,4,104.78,419.12,West,In-Store,23,2.9
+ORD-0065,2024-02-25,Electronics Item 42,Electronics,3,75.01,225.03,North,Online,33,1.8
+ORD-0066,2024-03-16,Electronics Item 43,Electronics,5,54.18,270.9,North,Mobile App,31,2.9
+ORD-0067,2024-10-24,Books Item 46,Books,3,58.65,175.95,North,Online,37,1.4
+ORD-0068,2024-07-13,Electronics Item 46,Electronics,3,176.97,530.91,South,Online,55,3.8
+ORD-0069,2024-05-28,Sports Item 44,Sports,1,212.18,212.18,Central,Online,54,4.1
+ORD-0070,2024-06-03,Toys Item 33,Toys,5,134.22,671.1,East,Online,44,4.3
+ORD-0071,2024-11-27,Clothing Item 30,Clothing,4,288.62,1154.48,South,In-Store,29,3.9
+ORD-0072,2024-09-25,Books Item 31,Books,5,244.37,1221.85,West,In-Store,64,3.4
+ORD-0073,2024-02-09,Toys Item 29,Toys,2,250.9,501.8,South,In-Store,54,3.4
+ORD-0074,2024-06-06,Beauty Item 32,Beauty,3,18.31,54.93,South,In-Store,34,2.4
+ORD-0075,2024-04-03,Books Item 16,Books,5,12.93,64.65,West,In-Store,53,4.0
+ORD-0076,2024-01-03,Food Item 19,Food,4,139.96,559.84,South,In-Store,62,2.0
+ORD-0077,2024-06-14,Toys Item 48,Toys,4,170.5,682.0,Central,In-Store,40,3.8
+ORD-0078,2024-02-24,Books Item 13,Books,3,82.9,248.7,East,Online,65,3.1
+ORD-0079,2024-08-09,Home & Garden Item 47,Home & Garden,2,72.74,145.48,Central,Mobile App,56,2.1
+ORD-0080,2024-06-06,Clothing Item 20,Clothing,2,95.9,191.8,North,Mobile App,52,1.5
+ORD-0081,2024-12-05,Electronics Item 41,Electronics,1,170.46,170.46,West,Online,18,3.3
+ORD-0082,2024-03-02,Food Item 17,Food,4,137.73,550.92,West,Online,22,2.6
+ORD-0083,2024-01-05,Clothing Item 10,Clothing,5,192.53,962.65,Central,In-Store,23,5.0
+ORD-0084,2024-10-20,Clothing Item 40,Clothing,5,231.68,1158.4,South,Mobile App,42,2.8
+ORD-0085,2024-07-10,Food Item 37,Food,3,259.44,778.32,Central,Online,57,4.8
+ORD-0086,2024-05-22,Clothing Item 6,Clothing,2,191.39,382.78,South,Online,29,3.2
+ORD-0087,2024-12-20,Home & Garden Item 31,Home & Garden,1,128.46,128.46,East,Online,32,2.2
+ORD-0088,2024-04-09,Books Item 41,Books,4,30.63,122.52,Central,Mobile App,30,2.7
+ORD-0089,2024-03-03,Sports Item 4,Sports,2,273.43,546.86,South,In-Store,56,4.0
+ORD-0090,2024-12-10,Books Item 45,Books,4,46.05,184.2,West,In-Store,50,3.2
+ORD-0091,2024-07-24,Food Item 21,Food,1,183.42,183.42,Central,In-Store,19,1.4
+ORD-0092,2024-03-16,Electronics Item 34,Electronics,3,177.1,531.3,West,In-Store,29,5.0
+ORD-0093,2024-08-12,Beauty Item 27,Beauty,4,291.02,1164.08,East,In-Store,60,1.4
+ORD-0094,2024-08-10,Home & Garden Item 43,Home & Garden,3,129.37,388.11,West,Mobile App,20,2.8
+ORD-0095,2024-07-28,Toys Item 33,Toys,3,103.74,311.22,North,Mobile App,52,2.8
+ORD-0096,2024-10-25,Electronics Item 32,Electronics,2,160.34,320.68,West,Online,31,2.1
+ORD-0097,2024-12-16,Home & Garden Item 8,Home & Garden,3,137.04,411.12,North,Mobile App,56,4.2
+ORD-0098,2024-09-14,Home & Garden Item 6,Home & Garden,3,169.73,509.19,South,Online,47,4.8
+ORD-0099,2024-05-17,Home & Garden Item 46,Home & Garden,4,280.46,1121.84,East,In-Store,48,4.9
+ORD-0100,2024-07-07,Sports Item 39,Sports,4,169.86,679.44,Central,Mobile App,26,4.5
+ORD-0101,2024-09-09,Books Item 1,Books,4,108.55,434.2,East,Mobile App,37,4.3
+ORD-0102,2024-08-12,Food Item 22,Food,2,139.49,278.98,Central,Mobile App,42,2.8
+ORD-0103,2024-04-19,Toys Item 25,Toys,2,294.41,588.82,South,In-Store,20,2.3
+ORD-0104,2024-11-26,Food Item 42,Food,4,121.95,487.8,South,In-Store,20,1.5
+ORD-0105,2024-08-04,Toys Item 34,Toys,1,263.51,263.51,West,Online,64,1.6
+ORD-0106,2024-05-11,Home & Garden Item 40,Home & Garden,1,146.14,146.14,West,Mobile App,23,4.4
+ORD-0107,2024-08-28,Beauty Item 35,Beauty,3,191.76,575.28,North,Mobile App,22,1.9
+ORD-0108,2024-07-04,Books Item 49,Books,2,226.55,453.1,North,In-Store,28,3.8
+ORD-0109,2024-01-10,Electronics Item 23,Electronics,1,104.06,104.06,East,In-Store,27,2.0
+ORD-0110,2024-03-06,Beauty Item 12,Beauty,5,207.71,1038.55,North,Mobile App,42,3.5
+ORD-0111,2024-03-08,Sports Item 30,Sports,4,274.71,1098.84,East,In-Store,34,3.7
+ORD-0112,2024-03-03,Food Item 29,Food,3,206.5,619.5,East,Mobile App,37,3.6
+ORD-0113,2024-05-07,Beauty Item 25,Beauty,3,142.47,427.41,West,Online,33,2.5
+ORD-0114,2024-12-10,Toys Item 2,Toys,5,95.79,478.95,West,In-Store,18,3.3
+ORD-0115,2024-05-25,Electronics Item 15,Electronics,5,226.09,1130.45,Central,In-Store,32,3.5
+ORD-0116,2024-11-21,Books Item 3,Books,2,192.18,384.36,East,In-Store,20,3.3
+ORD-0117,2024-06-24,Home & Garden Item 27,Home & Garden,1,273.78,273.78,South,Online,26,4.1
+ORD-0118,2024-05-27,Toys Item 11,Toys,5,155.51,777.55,East,In-Store,36,4.0
+ORD-0119,2024-02-05,Toys Item 49,Toys,1,145.81,145.81,South,Mobile App,64,3.7
+ORD-0120,2024-07-01,Beauty Item 17,Beauty,5,116.06,580.3,Central,Online,47,2.5
+ORD-0121,2024-11-12,Books Item 7,Books,5,120.49,602.45,South,In-Store,19,3.5
+ORD-0122,2024-02-21,Toys Item 30,Toys,5,74.19,370.95,East,Mobile App,44,1.5
+ORD-0123,2024-08-04,Electronics Item 7,Electronics,1,98.26,98.26,South,Mobile App,26,2.6
+ORD-0124,2024-12-24,Toys Item 10,Toys,5,131.54,657.7,West,Mobile App,24,4.3
+ORD-0125,2024-06-07,Beauty Item 29,Beauty,3,19.48,58.44,West,Online,41,1.4
+ORD-0126,2024-11-12,Toys Item 4,Toys,5,271.48,1357.4,West,In-Store,30,4.9
+ORD-0127,2024-11-21,Food Item 39,Food,1,202.19,202.19,North,Online,39,2.0
+ORD-0128,2024-09-07,Home & Garden Item 38,Home & Garden,5,69.5,347.5,South,Online,39,4.1
+ORD-0129,2024-03-05,Electronics Item 35,Electronics,3,258.93,776.79,East,Online,25,3.6
+ORD-0130,2024-04-19,Electronics Item 21,Electronics,2,14.3,28.6,North,Online,34,1.2
+ORD-0131,2024-02-16,Beauty Item 29,Beauty,5,42.95,214.75,East,Mobile App,55,1.4
+ORD-0132,2024-11-17,Sports Item 20,Sports,5,22.57,112.85,West,Mobile App,19,1.2
+ORD-0133,2024-02-16,Food Item 46,Food,4,133.61,534.44,West,Online,23,2.3
+ORD-0134,2024-10-21,Home & Garden Item 38,Home & Garden,1,46.59,46.59,Central,Mobile App,38,2.5
+ORD-0135,2024-07-04,Books Item 45,Books,4,156.6,626.4,North,Mobile App,59,4.5
+ORD-0136,2024-04-14,Sports Item 22,Sports,4,140.94,563.76,West,In-Store,44,3.9
+ORD-0137,2024-05-12,Toys Item 10,Toys,4,100.62,402.48,West,Online,23,4.3
+ORD-0138,2024-12-12,Clothing Item 9,Clothing,4,37.99,151.96,Central,Online,55,4.8
+ORD-0139,2024-11-25,Toys Item 28,Toys,1,129.12,129.12,North,In-Store,56,2.2
+ORD-0140,2024-03-22,Clothing Item 31,Clothing,5,157.14,785.7,South,Online,40,4.4
+ORD-0141,2024-10-08,Toys Item 28,Toys,1,231.15,231.15,Central,Mobile App,57,3.7
+ORD-0142,2024-12-09,Electronics Item 2,Electronics,5,279.42,1397.1,South,In-Store,62,4.0
+ORD-0143,2024-03-19,Toys Item 43,Toys,3,11.76,35.28,West,Online,27,4.0
+ORD-0144,2024-04-13,Electronics Item 27,Electronics,1,226.36,226.36,West,In-Store,28,2.5
+ORD-0145,2024-01-05,Toys Item 11,Toys,5,182.89,914.45,Central,Online,61,1.3
+ORD-0146,2024-08-14,Food Item 18,Food,4,150.83,603.32,South,Mobile App,25,2.4
+ORD-0147,2024-10-16,Clothing Item 34,Clothing,3,206.67,620.01,East,Online,32,2.6
+ORD-0148,2024-04-25,Electronics Item 9,Electronics,1,69.27,69.27,East,In-Store,38,1.5
+ORD-0149,2024-07-18,Food Item 46,Food,4,60.94,243.76,South,Mobile App,53,4.3
+ORD-0150,2024-12-02,Toys Item 28,Toys,1,125.14,125.14,North,In-Store,22,4.4
+ORD-0151,2024-11-14,Beauty Item 19,Beauty,5,127.27,636.35,North,In-Store,19,4.9
+ORD-0152,2024-12-12,Home & Garden Item 6,Home & Garden,5,143.42,717.1,West,Online,33,2.7
+ORD-0153,2024-05-24,Beauty Item 22,Beauty,5,32.8,164.0,South,In-Store,28,1.3
+ORD-0154,2024-06-12,Clothing Item 47,Clothing,5,157.88,789.4,South,Online,24,1.6
+ORD-0155,2024-11-03,Sports Item 12,Sports,2,184.69,369.38,West,In-Store,54,4.0
+ORD-0156,2024-10-11,Food Item 41,Food,5,196.46,982.3,East,Online,46,1.3
+ORD-0157,2024-10-02,Food Item 23,Food,3,240.93,722.79,Central,Online,37,2.8
+ORD-0158,2024-05-03,Electronics Item 42,Electronics,1,116.92,116.92,North,Mobile App,56,3.0
+ORD-0159,2024-12-02,Food Item 29,Food,5,170.74,853.7,Central,Mobile App,30,2.3
+ORD-0160,2024-01-15,Food Item 7,Food,5,53.74,268.7,East,Mobile App,23,3.0
+ORD-0161,2024-08-15,Home & Garden Item 34,Home & Garden,1,81.84,81.84,Central,Mobile App,28,2.5
+ORD-0162,2024-06-22,Books Item 39,Books,4,128.53,514.12,North,Mobile App,59,2.3
+ORD-0163,2024-07-10,Toys Item 17,Toys,1,171.8,171.8,Central,Online,39,1.3
+ORD-0164,2024-11-23,Home & Garden Item 43,Home & Garden,3,99.96,299.88,West,Online,56,3.8
+ORD-0165,2024-11-26,Clothing Item 22,Clothing,3,172.08,516.24,South,Mobile App,62,4.3
+ORD-0166,2024-01-12,Clothing Item 20,Clothing,4,157.45,629.8,South,Online,39,4.8
+ORD-0167,2024-03-05,Food Item 5,Food,2,75.69,151.38,East,Online,50,4.1
+ORD-0168,2024-10-05,Electronics Item 39,Electronics,3,264.14,792.42,West,Online,28,1.7
+ORD-0169,2024-06-22,Home & Garden Item 47,Home & Garden,4,22.66,90.64,South,In-Store,57,2.1
+ORD-0170,2024-05-26,Food Item 31,Food,2,164.85,329.7,South,In-Store,61,4.8
+ORD-0171,2024-07-17,Food Item 34,Food,4,233.13,932.52,West,Online,30,4.2
+ORD-0172,2024-08-28,Home & Garden Item 24,Home & Garden,3,25.12,75.36,Central,Online,63,4.4
+ORD-0173,2024-03-09,Clothing Item 29,Clothing,3,34.31,102.93,Central,Online,45,1.4
+ORD-0174,2024-01-14,Sports Item 4,Sports,4,266.53,1066.12,West,Mobile App,41,1.9
+ORD-0175,2024-06-04,Clothing Item 46,Clothing,3,75.11,225.33,East,Online,26,1.2
+ORD-0176,2024-08-15,Food Item 40,Food,2,230.05,460.1,North,Online,19,2.0
+ORD-0177,2024-10-17,Home & Garden Item 28,Home & Garden,5,282.66,1413.3,North,In-Store,33,2.2
+ORD-0178,2024-10-15,Electronics Item 5,Electronics,2,131.74,263.48,North,In-Store,56,3.1
+ORD-0179,2024-01-20,Sports Item 23,Sports,2,94.46,188.92,South,Mobile App,44,1.7
+ORD-0180,2024-02-17,Clothing Item 35,Clothing,5,292.64,1463.2,Central,Mobile App,53,1.1
+ORD-0181,2024-06-09,Food Item 48,Food,1,194.33,194.33,North,In-Store,22,2.4
+ORD-0182,2024-06-05,Clothing Item 3,Clothing,5,223.19,1115.95,East,Mobile App,39,4.3
+ORD-0183,2024-08-21,Home & Garden Item 12,Home & Garden,4,294.43,1177.72,South,Online,63,4.1
+ORD-0184,2024-01-26,Food Item 13,Food,1,95.09,95.09,North,In-Store,37,3.1
+ORD-0185,2024-11-07,Food Item 19,Food,3,20.61,61.83,East,Online,59,2.3
+ORD-0186,2024-07-24,Clothing Item 29,Clothing,3,136.71,410.13,West,In-Store,29,3.0
+ORD-0187,2024-09-09,Food Item 6,Food,3,278.04,834.12,West,Online,45,3.4
+ORD-0188,2024-02-03,Home & Garden Item 21,Home & Garden,5,95.18,475.9,East,In-Store,46,3.4
+ORD-0189,2024-06-15,Beauty Item 3,Beauty,2,210.02,420.04,East,Mobile App,45,2.1
+ORD-0190,2024-07-12,Electronics Item 33,Electronics,1,204.63,204.63,South,Online,27,4.4
+ORD-0191,2024-04-25,Food Item 42,Food,1,46.6,46.6,East,In-Store,42,4.8
+ORD-0192,2024-08-12,Electronics Item 24,Electronics,5,54.49,272.45,West,Online,54,1.6
+ORD-0193,2024-05-08,Toys Item 8,Toys,4,101.16,404.64,North,Mobile App,29,3.0
+ORD-0194,2024-05-23,Beauty Item 29,Beauty,5,44.14,220.7,South,Mobile App,36,3.8
+ORD-0195,2024-02-15,Food Item 12,Food,2,45.55,91.1,West,Online,61,4.9
+ORD-0196,2024-09-18,Toys Item 19,Toys,3,215.76,647.28,East,Online,63,3.8
+ORD-0197,2024-02-07,Home & Garden Item 9,Home & Garden,3,157.53,472.59,South,In-Store,19,2.4
+ORD-0198,2024-09-05,Toys Item 40,Toys,4,243.05,972.2,North,Online,37,2.6
+ORD-0199,2024-07-27,Food Item 37,Food,5,129.12,645.6,North,Online,38,3.6
+ORD-0200,2024-06-05,Food Item 50,Food,4,207.22,828.88,Central,Mobile App,55,1.7
+ORD-0201,2024-01-27,Home & Garden Item 8,Home & Garden,4,155.82,623.28,Central,Online,37,1.7
+ORD-0202,2024-09-10,Toys Item 6,Toys,2,110.34,220.68,East,Online,58,4.8
+ORD-0203,2024-10-18,Books Item 6,Books,2,191.25,382.5,Central,Mobile App,28,3.4
+ORD-0204,2024-12-20,Home & Garden Item 22,Home & Garden,2,201.02,402.04,Central,Online,19,1.3
+ORD-0205,2024-07-20,Books Item 41,Books,2,232.41,464.82,North,In-Store,58,3.2
+ORD-0206,2024-11-13,Books Item 20,Books,4,81.0,324.0,West,Online,62,1.2
+ORD-0207,2024-04-11,Food Item 39,Food,4,150.42,601.68,South,In-Store,63,2.3
+ORD-0208,2024-06-17,Toys Item 36,Toys,4,47.91,191.64,North,In-Store,33,2.9
+ORD-0209,2024-02-02,Books Item 19,Books,4,81.89,327.56,West,Mobile App,44,2.0
+ORD-0210,2024-12-11,Home & Garden Item 13,Home & Garden,3,280.78,842.34,South,In-Store,50,2.9
+ORD-0211,2024-07-17,Books Item 30,Books,4,16.71,66.84,South,Online,55,2.4
+ORD-0212,2024-11-22,Electronics Item 31,Electronics,3,153.51,460.53,East,Mobile App,18,4.4
+ORD-0213,2024-12-12,Beauty Item 49,Beauty,2,265.9,531.8,West,In-Store,20,2.6
+ORD-0214,2024-02-13,Sports Item 33,Sports,3,170.42,511.26,West,Mobile App,35,4.3
+ORD-0215,2024-07-12,Clothing Item 22,Clothing,2,292.76,585.52,Central,In-Store,27,1.8
+ORD-0216,2024-01-05,Beauty Item 46,Beauty,5,21.66,108.3,East,In-Store,51,2.8
+ORD-0217,2024-06-06,Home & Garden Item 26,Home & Garden,3,280.09,840.27,Central,Mobile App,37,3.4
+ORD-0218,2024-01-12,Food Item 22,Food,5,96.93,484.65,North,In-Store,55,2.2
+ORD-0219,2024-11-26,Electronics Item 50,Electronics,5,147.62,738.1,Central,Mobile App,32,3.9
+ORD-0220,2024-12-20,Food Item 50,Food,2,162.02,324.04,West,Online,61,2.0
+ORD-0221,2024-06-14,Clothing Item 10,Clothing,2,15.48,30.96,West,Mobile App,31,2.6
+ORD-0222,2024-09-07,Food Item 36,Food,1,214.66,214.66,East,Mobile App,48,3.1
+ORD-0223,2024-09-11,Toys Item 35,Toys,2,143.29,286.58,East,Mobile App,64,3.7
+ORD-0224,2024-04-09,Books Item 36,Books,5,150.4,752.0,East,Online,37,4.1
+ORD-0225,2024-06-18,Sports Item 47,Sports,4,101.93,407.72,East,In-Store,25,3.3
+ORD-0226,2024-03-10,Beauty Item 3,Beauty,4,247.32,989.28,East,Mobile App,23,2.4
+ORD-0227,2024-04-07,Food Item 35,Food,3,226.72,680.16,East,Mobile App,62,2.1
+ORD-0228,2024-04-08,Clothing Item 4,Clothing,5,224.85,1124.25,Central,Online,58,1.9
+ORD-0229,2024-08-04,Clothing Item 44,Clothing,4,105.78,423.12,South,Online,53,4.9
+ORD-0230,2024-08-16,Home & Garden Item 42,Home & Garden,4,199.33,797.32,South,In-Store,38,2.1
+ORD-0231,2024-04-18,Electronics Item 48,Electronics,1,199.16,199.16,North,Online,44,4.5
+ORD-0232,2024-07-26,Home & Garden Item 32,Home & Garden,1,299.17,299.17,South,Mobile App,36,4.5
+ORD-0233,2024-02-11,Electronics Item 19,Electronics,3,174.7,524.1,West,Mobile App,52,3.1
+ORD-0234,2024-04-26,Home & Garden Item 8,Home & Garden,5,145.72,728.6,East,Online,64,2.8
+ORD-0235,2024-06-26,Books Item 19,Books,2,14.07,28.14,Central,Mobile App,30,1.7
+ORD-0236,2024-02-13,Beauty Item 43,Beauty,4,159.42,637.68,North,Online,26,2.9
+ORD-0237,2024-04-15,Sports Item 49,Sports,1,85.62,85.62,East,In-Store,37,3.3
+ORD-0238,2024-12-08,Electronics Item 4,Electronics,3,199.56,598.68,North,In-Store,37,1.6
+ORD-0239,2024-05-12,Books Item 40,Books,1,195.22,195.22,South,Online,26,2.9
+ORD-0240,2024-12-18,Food Item 31,Food,5,118.34,591.7,Central,Mobile App,31,4.0
+ORD-0241,2024-12-12,Clothing Item 5,Clothing,5,139.55,697.75,Central,Online,21,4.3
+ORD-0242,2024-03-11,Sports Item 34,Sports,5,165.62,828.1,West,Online,61,1.8
+ORD-0243,2024-08-26,Food Item 4,Food,1,270.67,270.67,West,Online,50,2.7
+ORD-0244,2024-05-24,Electronics Item 2,Electronics,5,144.08,720.4,West,In-Store,18,4.0
+ORD-0245,2024-12-03,Clothing Item 35,Clothing,1,132.86,132.86,North,Online,48,1.1
+ORD-0246,2024-11-24,Beauty Item 42,Beauty,2,232.99,465.98,West,In-Store,42,2.8
+ORD-0247,2024-11-28,Beauty Item 35,Beauty,4,33.26,133.04,South,Mobile App,40,1.5
+ORD-0248,2024-04-27,Beauty Item 1,Beauty,5,46.92,234.6,North,In-Store,47,3.7
+ORD-0249,2024-04-08,Beauty Item 30,Beauty,5,119.98,599.9,East,Online,35,1.8
+ORD-0250,2024-07-20,Clothing Item 50,Clothing,1,244.74,244.74,North,Online,31,1.3
+ORD-0251,2024-12-28,Electronics Item 4,Electronics,4,183.35,733.4,South,Mobile App,20,2.6
+ORD-0252,2024-01-05,Sports Item 33,Sports,5,73.0,365.0,East,Online,64,3.3
+ORD-0253,2024-03-22,Toys Item 34,Toys,2,97.5,195.0,South,In-Store,37,2.1
+ORD-0254,2024-01-12,Home & Garden Item 42,Home & Garden,4,171.19,684.76,West,Mobile App,38,3.8
+ORD-0255,2024-03-25,Beauty Item 35,Beauty,2,96.96,193.92,West,Online,32,2.2
+ORD-0256,2024-09-14,Home & Garden Item 27,Home & Garden,4,275.26,1101.04,Central,Mobile App,26,2.6
+ORD-0257,2024-02-15,Books Item 24,Books,2,105.77,211.54,North,Mobile App,64,4.3
+ORD-0258,2024-10-20,Electronics Item 3,Electronics,3,119.37,358.11,North,Online,55,3.9
+ORD-0259,2024-06-10,Sports Item 1,Sports,4,70.57,282.28,South,Online,65,1.5
+ORD-0260,2024-12-07,Food Item 26,Food,2,211.72,423.44,South,Mobile App,38,4.1
+ORD-0261,2024-06-10,Beauty Item 17,Beauty,4,164.75,659.0,East,Mobile App,49,2.9
+ORD-0262,2024-06-11,Food Item 27,Food,3,275.15,825.45,North,Mobile App,32,4.0
+ORD-0263,2024-10-19,Electronics Item 47,Electronics,3,170.45,511.35,West,In-Store,27,1.8
+ORD-0264,2024-04-16,Sports Item 36,Sports,4,175.23,700.92,East,In-Store,49,4.9
+ORD-0265,2024-06-06,Food Item 9,Food,4,58.78,235.12,Central,In-Store,29,4.7
+ORD-0266,2024-02-27,Electronics Item 43,Electronics,5,19.8,99.0,North,Online,44,1.5
+ORD-0267,2024-01-07,Sports Item 33,Sports,1,215.07,215.07,West,In-Store,21,3.5
+ORD-0268,2024-09-18,Food Item 27,Food,4,14.55,58.2,North,Online,51,3.9
+ORD-0269,2024-12-22,Books Item 28,Books,1,155.63,155.63,South,Online,24,3.1
+ORD-0270,2024-05-27,Sports Item 23,Sports,2,189.73,379.46,East,In-Store,23,2.5
+ORD-0271,2024-12-08,Beauty Item 20,Beauty,4,173.84,695.36,North,Mobile App,59,4.0
+ORD-0272,2024-09-16,Clothing Item 4,Clothing,4,119.98,479.92,North,Mobile App,28,1.3
+ORD-0273,2024-02-17,Beauty Item 3,Beauty,3,174.09,522.27,South,Online,62,4.6
+ORD-0274,2024-02-22,Food Item 18,Food,3,23.49,70.47,Central,Mobile App,60,1.1
+ORD-0275,2024-10-05,Toys Item 49,Toys,1,288.82,288.82,West,Online,37,1.6
+ORD-0276,2024-07-22,Sports Item 35,Sports,5,252.04,1260.2,East,In-Store,65,1.6
+ORD-0277,2024-06-02,Clothing Item 7,Clothing,5,226.17,1130.85,West,Online,22,2.4
+ORD-0278,2024-05-26,Beauty Item 29,Beauty,3,18.58,55.74,West,Online,40,3.2
+ORD-0279,2024-10-22,Beauty Item 25,Beauty,4,63.85,255.4,North,Mobile App,36,4.2
+ORD-0280,2024-07-23,Clothing Item 41,Clothing,1,87.7,87.7,South,Mobile App,42,2.3
+ORD-0281,2024-05-15,Clothing Item 24,Clothing,1,11.5,11.5,East,Online,26,1.3
+ORD-0282,2024-09-14,Beauty Item 7,Beauty,4,171.52,686.08,North,Online,40,3.2
+ORD-0283,2024-07-13,Toys Item 50,Toys,4,13.57,54.28,North,Mobile App,53,4.6
+ORD-0284,2024-11-13,Sports Item 11,Sports,5,161.11,805.55,South,In-Store,37,2.1
+ORD-0285,2024-05-14,Home & Garden Item 20,Home & Garden,1,58.48,58.48,West,Online,41,2.0
+ORD-0286,2024-04-15,Sports Item 7,Sports,4,182.19,728.76,South,In-Store,18,4.8
+ORD-0287,2024-06-15,Toys Item 22,Toys,5,120.16,600.8,West,Mobile App,56,1.5
+ORD-0288,2024-04-16,Toys Item 21,Toys,5,284.7,1423.5,South,In-Store,38,2.2
+ORD-0289,2024-06-13,Food Item 18,Food,5,236.76,1183.8,West,In-Store,25,4.7
+ORD-0290,2024-03-22,Sports Item 50,Sports,5,299.2,1496.0,Central,Online,64,2.8
+ORD-0291,2024-12-03,Sports Item 27,Sports,4,241.32,965.28,West,Online,58,2.2
+ORD-0292,2024-07-03,Books Item 29,Books,2,217.41,434.82,Central,In-Store,55,2.6
+ORD-0293,2024-06-23,Beauty Item 35,Beauty,5,20.65,103.25,Central,Mobile App,23,1.4
+ORD-0294,2024-10-02,Sports Item 37,Sports,3,58.23,174.69,West,In-Store,45,1.4
+ORD-0295,2024-12-17,Clothing Item 36,Clothing,3,74.37,223.11,Central,Mobile App,54,1.9
+ORD-0296,2024-11-19,Toys Item 45,Toys,4,144.28,577.12,Central,Online,40,5.0
+ORD-0297,2024-02-04,Food Item 47,Food,1,95.67,95.67,South,In-Store,37,2.4
+ORD-0298,2024-08-04,Sports Item 29,Sports,5,150.04,750.2,West,In-Store,22,2.2
+ORD-0299,2024-11-04,Clothing Item 44,Clothing,1,256.25,256.25,South,Mobile App,33,3.1
+ORD-0300,2024-08-08,Home & Garden Item 26,Home & Garden,3,172.35,517.05,South,Online,58,3.6
+ORD-0301,2024-04-15,Beauty Item 38,Beauty,1,223.83,223.83,West,In-Store,18,3.8
+ORD-0302,2024-02-19,Sports Item 7,Sports,3,228.16,684.48,Central,Online,41,2.3
+ORD-0303,2024-08-17,Food Item 41,Food,1,86.07,86.07,East,Mobile App,42,3.4
+ORD-0304,2024-08-20,Clothing Item 12,Clothing,3,112.07,336.21,East,Mobile App,55,1.3
+ORD-0305,2024-05-04,Home & Garden Item 12,Home & Garden,3,44.17,132.51,East,Mobile App,27,3.0
+ORD-0306,2024-07-14,Beauty Item 12,Beauty,5,49.97,249.85,West,Mobile App,52,3.8
+ORD-0307,2024-05-05,Home & Garden Item 12,Home & Garden,5,58.38,291.9,East,In-Store,57,1.2
+ORD-0308,2024-04-27,Toys Item 25,Toys,1,150.53,150.53,Central,Mobile App,59,3.0
+ORD-0309,2024-08-16,Food Item 11,Food,4,215.93,863.72,North,Mobile App,19,4.2
+ORD-0310,2024-04-18,Sports Item 19,Sports,3,19.47,58.41,South,In-Store,54,4.0
+ORD-0311,2024-10-04,Food Item 18,Food,5,158.12,790.6,Central,In-Store,52,4.3
+ORD-0312,2024-07-04,Electronics Item 48,Electronics,4,168.43,673.72,South,In-Store,20,2.8
+ORD-0313,2024-02-25,Toys Item 16,Toys,1,137.32,137.32,South,Mobile App,55,3.8
+ORD-0314,2024-04-27,Beauty Item 14,Beauty,2,188.67,377.34,North,Mobile App,40,3.1
+ORD-0315,2024-05-10,Home & Garden Item 37,Home & Garden,3,293.9,881.7,East,Mobile App,61,4.3
+ORD-0316,2024-05-28,Home & Garden Item 42,Home & Garden,4,276.43,1105.72,South,Mobile App,26,2.0
+ORD-0317,2024-11-13,Toys Item 32,Toys,2,230.82,461.64,South,Mobile App,58,2.1
+ORD-0318,2024-11-26,Beauty Item 50,Beauty,4,141.07,564.28,North,In-Store,50,4.0
+ORD-0319,2024-06-19,Toys Item 1,Toys,4,285.56,1142.24,North,Mobile App,47,3.5
+ORD-0320,2024-07-07,Toys Item 28,Toys,1,240.74,240.74,South,In-Store,35,2.3
+ORD-0321,2024-03-19,Books Item 32,Books,3,168.71,506.13,East,Mobile App,21,1.2
+ORD-0322,2024-03-15,Food Item 30,Food,1,46.02,46.02,North,In-Store,30,5.0
+ORD-0323,2024-05-03,Home & Garden Item 42,Home & Garden,3,56.09,168.27,East,In-Store,23,2.5
+ORD-0324,2024-05-24,Home & Garden Item 45,Home & Garden,1,124.93,124.93,South,In-Store,59,1.4
+ORD-0325,2024-02-05,Clothing Item 38,Clothing,1,71.88,71.88,South,Mobile App,61,2.8
+ORD-0326,2024-07-23,Electronics Item 9,Electronics,3,246.95,740.85,West,Online,32,2.5
+ORD-0327,2024-05-05,Clothing Item 25,Clothing,1,100.86,100.86,South,Mobile App,61,1.6
+ORD-0328,2024-08-12,Electronics Item 47,Electronics,5,198.5,992.5,South,Mobile App,65,1.6
+ORD-0329,2024-04-03,Beauty Item 7,Beauty,5,209.09,1045.45,South,Online,55,3.9
+ORD-0330,2024-03-08,Toys Item 18,Toys,4,101.2,404.8,North,Online,53,3.4
+ORD-0331,2024-11-10,Books Item 14,Books,1,255.88,255.88,Central,Mobile App,50,1.8
+ORD-0332,2024-04-16,Beauty Item 25,Beauty,3,197.38,592.14,North,Online,49,3.6
+ORD-0333,2024-01-12,Clothing Item 21,Clothing,5,267.72,1338.6,South,In-Store,54,2.7
+ORD-0334,2024-02-01,Home & Garden Item 38,Home & Garden,4,286.78,1147.12,North,Online,34,1.9
+ORD-0335,2024-11-23,Electronics Item 33,Electronics,4,156.91,627.64,West,In-Store,62,2.6
+ORD-0336,2024-02-17,Home & Garden Item 14,Home & Garden,3,34.23,102.69,South,Mobile App,38,2.6
+ORD-0337,2024-12-28,Clothing Item 16,Clothing,3,212.61,637.83,North,Online,23,4.7
+ORD-0338,2024-01-10,Clothing Item 43,Clothing,4,187.56,750.24,South,Online,18,3.8
+ORD-0339,2024-06-17,Electronics Item 34,Electronics,2,153.95,307.9,East,Online,41,1.5
+ORD-0340,2024-01-11,Books Item 28,Books,1,233.7,233.7,East,Mobile App,22,2.1
+ORD-0341,2024-06-02,Clothing Item 32,Clothing,4,142.0,568.0,Central,Online,41,1.6
+ORD-0342,2024-02-08,Clothing Item 48,Clothing,5,205.48,1027.4,Central,Online,20,4.4
+ORD-0343,2024-06-13,Electronics Item 10,Electronics,2,23.32,46.64,South,Online,53,4.2
+ORD-0344,2024-07-24,Beauty Item 21,Beauty,2,103.31,206.62,East,Online,54,2.5
+ORD-0345,2024-09-02,Electronics Item 26,Electronics,2,74.71,149.42,North,In-Store,36,4.1
+ORD-0346,2024-08-01,Books Item 24,Books,3,35.04,105.12,South,In-Store,54,4.1
+ORD-0347,2024-08-25,Sports Item 50,Sports,4,116.79,467.16,South,Mobile App,52,4.0
+ORD-0348,2024-07-01,Sports Item 15,Sports,2,11.84,23.68,Central,In-Store,58,4.4
+ORD-0349,2024-11-13,Electronics Item 48,Electronics,3,10.41,31.23,East,Online,31,3.1
+ORD-0350,2024-01-05,Sports Item 46,Sports,4,152.68,610.72,East,Online,20,4.7
+ORD-0351,2024-12-03,Beauty Item 38,Beauty,3,142.94,428.82,North,Mobile App,26,3.5
+ORD-0352,2024-01-14,Beauty Item 43,Beauty,1,181.64,181.64,South,Online,36,2.0
+ORD-0353,2024-12-11,Toys Item 21,Toys,4,213.2,852.8,West,In-Store,32,1.3
+ORD-0354,2024-10-04,Sports Item 10,Sports,2,236.17,472.34,North,Online,46,2.9
+ORD-0355,2024-04-15,Beauty Item 20,Beauty,1,165.41,165.41,West,In-Store,25,1.4
+ORD-0356,2024-06-05,Books Item 6,Books,5,21.69,108.45,South,In-Store,43,3.1
+ORD-0357,2024-03-01,Books Item 26,Books,3,247.82,743.46,West,Mobile App,65,3.2
+ORD-0358,2024-03-04,Clothing Item 1,Clothing,4,39.54,158.16,North,Online,26,1.8
+ORD-0359,2024-11-03,Beauty Item 38,Beauty,3,209.01,627.03,Central,In-Store,22,1.1
+ORD-0360,2024-08-26,Clothing Item 9,Clothing,2,271.71,543.42,North,In-Store,25,1.2
+ORD-0361,2024-10-14,Food Item 47,Food,1,58.71,58.71,West,In-Store,19,2.5
+ORD-0362,2024-03-09,Beauty Item 18,Beauty,2,112.63,225.26,West,Online,20,3.5
+ORD-0363,2024-09-16,Sports Item 4,Sports,3,154.67,464.01,North,In-Store,42,1.5
+ORD-0364,2024-09-26,Sports Item 2,Sports,5,82.24,411.2,West,Mobile App,40,2.9
+ORD-0365,2024-09-11,Food Item 25,Food,3,274.67,824.01,East,Online,19,2.3
+ORD-0366,2024-05-02,Sports Item 31,Sports,1,269.76,269.76,Central,In-Store,55,5.0
+ORD-0367,2024-04-09,Home & Garden Item 35,Home & Garden,1,81.87,81.87,North,Online,54,4.4
+ORD-0368,2024-03-06,Beauty Item 16,Beauty,3,281.2,843.6,Central,In-Store,65,3.8
+ORD-0369,2024-10-05,Electronics Item 37,Electronics,3,284.78,854.34,South,In-Store,52,2.2
+ORD-0370,2024-04-20,Food Item 15,Food,1,36.16,36.16,North,Mobile App,48,1.0
+ORD-0371,2024-03-26,Sports Item 21,Sports,2,108.81,217.62,North,Online,27,3.3
+ORD-0372,2024-06-03,Home & Garden Item 24,Home & Garden,1,255.47,255.47,West,Mobile App,24,2.3
+ORD-0373,2024-12-14,Toys Item 41,Toys,2,292.99,585.98,West,Mobile App,38,1.7
+ORD-0374,2024-03-13,Toys Item 20,Toys,2,202.99,405.98,East,Online,29,3.9
+ORD-0375,2024-10-11,Beauty Item 40,Beauty,5,19.38,96.9,South,Mobile App,54,1.4
+ORD-0376,2024-02-08,Food Item 23,Food,2,106.03,212.06,East,Online,58,4.5
+ORD-0377,2024-05-07,Clothing Item 16,Clothing,3,139.51,418.53,North,In-Store,34,4.1
+ORD-0378,2024-12-14,Electronics Item 11,Electronics,1,121.91,121.91,West,In-Store,42,2.4
+ORD-0379,2024-10-21,Beauty Item 49,Beauty,1,250.34,250.34,South,Online,46,1.3
+ORD-0380,2024-05-04,Electronics Item 5,Electronics,3,15.81,47.43,East,Online,42,1.6
+ORD-0381,2024-02-11,Clothing Item 39,Clothing,5,283.12,1415.6,Central,In-Store,63,1.1
+ORD-0382,2024-03-02,Home & Garden Item 7,Home & Garden,5,268.02,1340.1,East,Online,30,2.6
+ORD-0383,2024-02-02,Books Item 26,Books,3,96.24,288.72,Central,Mobile App,49,1.6
+ORD-0384,2024-05-27,Toys Item 43,Toys,1,134.0,134.0,Central,In-Store,30,1.4
+ORD-0385,2024-02-16,Sports Item 8,Sports,2,195.07,390.14,East,In-Store,48,3.0
+ORD-0386,2024-07-06,Books Item 24,Books,1,196.13,196.13,West,In-Store,29,2.8
+ORD-0387,2024-04-27,Books Item 18,Books,4,144.86,579.44,Central,Online,27,4.0
+ORD-0388,2024-09-14,Clothing Item 49,Clothing,1,203.75,203.75,Central,Online,53,1.2
+ORD-0389,2024-09-22,Beauty Item 31,Beauty,5,131.39,656.95,Central,Online,48,2.2
+ORD-0390,2024-09-26,Beauty Item 37,Beauty,1,155.6,155.6,Central,Online,25,4.8
+ORD-0391,2024-03-07,Food Item 13,Food,2,285.22,570.44,South,Online,45,1.3
+ORD-0392,2024-11-05,Beauty Item 39,Beauty,2,299.2,598.4,East,In-Store,64,4.7
+ORD-0393,2024-07-18,Clothing Item 21,Clothing,1,122.54,122.54,East,Mobile App,47,4.7
+ORD-0394,2024-07-04,Electronics Item 27,Electronics,5,180.39,901.95,South,Online,54,3.4
+ORD-0395,2024-02-26,Clothing Item 19,Clothing,1,173.17,173.17,Central,In-Store,44,2.1
+ORD-0396,2024-01-06,Food Item 18,Food,5,186.59,932.95,West,Online,57,3.4
+ORD-0397,2024-06-23,Beauty Item 16,Beauty,1,124.77,124.77,North,Mobile App,48,4.7
+ORD-0398,2024-05-10,Toys Item 18,Toys,1,107.97,107.97,West,Mobile App,61,1.4
+ORD-0399,2024-12-15,Sports Item 50,Sports,2,97.13,194.26,East,In-Store,64,2.7
+ORD-0400,2024-07-24,Clothing Item 32,Clothing,2,138.09,276.18,Central,In-Store,21,3.1
+ORD-0401,2024-09-13,Home & Garden Item 9,Home & Garden,1,100.22,100.22,Central,Mobile App,19,1.7
+ORD-0402,2024-08-02,Sports Item 24,Sports,1,82.34,82.34,South,In-Store,41,4.3
+ORD-0403,2024-04-12,Beauty Item 32,Beauty,1,207.53,207.53,Central,In-Store,29,4.8
+ORD-0404,2024-06-06,Food Item 17,Food,5,169.88,849.4,North,In-Store,19,2.5
+ORD-0405,2024-04-28,Home & Garden Item 15,Home & Garden,5,236.14,1180.7,South,Mobile App,31,2.1
+ORD-0406,2024-11-01,Beauty Item 31,Beauty,5,15.81,79.05,South,Mobile App,29,3.4
+ORD-0407,2024-05-23,Electronics Item 46,Electronics,2,83.18,166.36,East,In-Store,42,4.4
+ORD-0408,2024-05-22,Food Item 34,Food,3,73.27,219.81,Central,In-Store,55,1.4
+ORD-0409,2024-10-10,Toys Item 20,Toys,5,197.72,988.6,North,In-Store,22,2.3
+ORD-0410,2024-05-21,Books Item 46,Books,3,259.82,779.46,East,Online,27,3.1
+ORD-0411,2024-10-13,Sports Item 43,Sports,1,243.56,243.56,East,Mobile App,26,3.9
+ORD-0412,2024-07-13,Food Item 25,Food,3,85.22,255.66,North,Mobile App,63,5.0
+ORD-0413,2024-04-22,Sports Item 35,Sports,3,220.69,662.07,West,Mobile App,40,3.0
+ORD-0414,2024-02-16,Home & Garden Item 9,Home & Garden,5,62.52,312.6,East,Mobile App,53,4.1
+ORD-0415,2024-04-12,Home & Garden Item 15,Home & Garden,3,199.78,599.34,East,In-Store,39,2.5
+ORD-0416,2024-08-02,Books Item 41,Books,4,256.84,1027.36,Central,Mobile App,57,1.3
+ORD-0417,2024-11-13,Sports Item 34,Sports,5,44.74,223.7,East,In-Store,21,4.5
+ORD-0418,2024-06-14,Home & Garden Item 37,Home & Garden,2,297.77,595.54,West,Online,38,4.4
+ORD-0419,2024-11-06,Home & Garden Item 21,Home & Garden,1,151.39,151.39,North,Online,46,2.1
+ORD-0420,2024-08-26,Home & Garden Item 49,Home & Garden,5,231.69,1158.45,North,Online,57,2.7
+ORD-0421,2024-08-13,Beauty Item 1,Beauty,4,134.41,537.64,North,Mobile App,30,3.9
+ORD-0422,2024-09-07,Electronics Item 2,Electronics,3,229.48,688.44,North,Mobile App,64,2.0
+ORD-0423,2024-07-17,Toys Item 38,Toys,3,47.38,142.14,East,Online,22,4.3
+ORD-0424,2024-09-20,Books Item 34,Books,3,142.21,426.63,East,In-Store,61,5.0
+ORD-0425,2024-04-06,Toys Item 26,Toys,4,114.17,456.68,North,Online,32,3.9
+ORD-0426,2024-10-17,Home & Garden Item 11,Home & Garden,2,222.87,445.74,North,In-Store,63,3.6
+ORD-0427,2024-05-25,Electronics Item 35,Electronics,4,264.19,1056.76,Central,Online,56,5.0
+ORD-0428,2024-02-14,Clothing Item 29,Clothing,1,23.98,23.98,West,Online,53,2.0
+ORD-0429,2024-11-01,Home & Garden Item 20,Home & Garden,2,211.6,423.2,West,Mobile App,24,3.6
+ORD-0430,2024-03-14,Books Item 7,Books,5,185.62,928.1,Central,Mobile App,57,1.5
+ORD-0431,2024-10-07,Clothing Item 50,Clothing,1,154.33,154.33,East,Mobile App,30,2.4
+ORD-0432,2024-09-16,Beauty Item 14,Beauty,3,56.5,169.5,West,In-Store,33,1.0
+ORD-0433,2024-11-16,Clothing Item 10,Clothing,1,252.21,252.21,North,Mobile App,22,3.9
+ORD-0434,2024-08-10,Clothing Item 17,Clothing,3,196.85,590.55,West,Online,24,4.3
+ORD-0435,2024-11-11,Electronics Item 28,Electronics,3,114.45,343.35,North,Online,20,1.0
+ORD-0436,2024-08-20,Home & Garden Item 18,Home & Garden,2,105.3,210.6,North,In-Store,39,1.7
+ORD-0437,2024-05-27,Beauty Item 25,Beauty,4,289.06,1156.24,West,In-Store,59,4.5
+ORD-0438,2024-12-02,Home & Garden Item 11,Home & Garden,1,48.42,48.42,North,In-Store,55,2.9
+ORD-0439,2024-06-20,Food Item 2,Food,2,187.27,374.54,South,In-Store,49,1.5
+ORD-0440,2024-05-21,Beauty Item 21,Beauty,4,23.32,93.28,North,Mobile App,61,3.1
+ORD-0441,2024-12-23,Sports Item 40,Sports,3,160.53,481.59,North,In-Store,60,3.9
+ORD-0442,2024-11-13,Food Item 10,Food,3,202.47,607.41,Central,Mobile App,21,1.0
+ORD-0443,2024-08-28,Home & Garden Item 11,Home & Garden,5,256.16,1280.8,North,In-Store,38,2.0
+ORD-0444,2024-09-21,Books Item 25,Books,1,157.0,157.0,West,Online,23,2.8
+ORD-0445,2024-08-11,Food Item 8,Food,1,258.4,258.4,West,Mobile App,59,1.1
+ORD-0446,2024-09-01,Beauty Item 6,Beauty,4,20.38,81.52,Central,Mobile App,58,2.2
+ORD-0447,2024-06-27,Sports Item 4,Sports,4,285.59,1142.36,South,In-Store,39,3.2
+ORD-0448,2024-02-04,Food Item 49,Food,3,217.6,652.8,South,Online,39,2.4
+ORD-0449,2024-12-04,Books Item 3,Books,5,161.37,806.85,South,In-Store,26,4.3
+ORD-0450,2024-04-07,Beauty Item 8,Beauty,1,83.73,83.73,West,Online,47,4.3
+ORD-0451,2024-07-02,Sports Item 41,Sports,3,41.24,123.72,Central,Online,46,2.8
+ORD-0452,2024-12-02,Home & Garden Item 36,Home & Garden,4,11.25,45.0,West,Mobile App,48,4.7
+ORD-0453,2024-03-04,Home & Garden Item 25,Home & Garden,5,60.35,301.75,Central,Mobile App,38,3.0
+ORD-0454,2024-12-25,Beauty Item 16,Beauty,4,294.05,1176.2,East,In-Store,39,4.9
+ORD-0455,2024-10-23,Food Item 48,Food,2,50.06,100.12,Central,In-Store,62,3.2
+ORD-0456,2024-04-07,Toys Item 40,Toys,5,193.44,967.2,East,Mobile App,40,4.7
+ORD-0457,2024-12-21,Home & Garden Item 21,Home & Garden,2,156.12,312.24,North,In-Store,53,2.9
+ORD-0458,2024-07-26,Beauty Item 1,Beauty,5,92.91,464.55,Central,Online,19,2.5
+ORD-0459,2024-03-10,Electronics Item 44,Electronics,1,67.96,67.96,East,Online,21,3.8
+ORD-0460,2024-01-12,Books Item 29,Books,2,228.53,457.06,North,Mobile App,61,4.0
+ORD-0461,2024-09-26,Sports Item 45,Sports,5,122.77,613.85,East,Mobile App,60,1.2
+ORD-0462,2024-11-11,Beauty Item 36,Beauty,4,130.79,523.16,North,Online,65,2.0
+ORD-0463,2024-12-23,Food Item 42,Food,2,274.32,548.64,East,Mobile App,52,4.0
+ORD-0464,2024-03-22,Sports Item 5,Sports,2,95.3,190.6,South,Online,65,3.1
+ORD-0465,2024-09-09,Beauty Item 9,Beauty,1,134.26,134.26,South,Mobile App,34,1.0
+ORD-0466,2024-06-20,Food Item 4,Food,2,21.57,43.14,Central,Mobile App,37,3.0
+ORD-0467,2024-06-17,Toys Item 15,Toys,1,237.36,237.36,South,Mobile App,22,4.1
+ORD-0468,2024-07-03,Home & Garden Item 23,Home & Garden,4,167.48,669.92,South,Online,60,2.3
+ORD-0469,2024-10-17,Toys Item 31,Toys,3,73.34,220.02,Central,Mobile App,18,1.5
+ORD-0470,2024-11-20,Toys Item 40,Toys,4,79.69,318.76,South,Online,61,4.5
+ORD-0471,2024-09-24,Beauty Item 19,Beauty,1,121.89,121.89,North,Mobile App,41,3.1
+ORD-0472,2024-11-07,Food Item 21,Food,4,22.71,90.84,Central,Online,24,1.7
+ORD-0473,2024-11-25,Electronics Item 14,Electronics,1,71.12,71.12,West,Online,31,3.2
+ORD-0474,2024-03-01,Beauty Item 30,Beauty,1,226.59,226.59,East,Online,23,1.3
+ORD-0475,2024-10-27,Home & Garden Item 15,Home & Garden,3,171.83,515.49,East,In-Store,42,2.8
+ORD-0476,2024-07-22,Beauty Item 8,Beauty,4,101.75,407.0,Central,Online,59,3.9
+ORD-0477,2024-02-12,Clothing Item 33,Clothing,5,23.19,115.95,North,In-Store,61,2.2
+ORD-0478,2024-08-13,Clothing Item 26,Clothing,3,231.92,695.76,North,In-Store,28,3.1
+ORD-0479,2024-09-10,Home & Garden Item 41,Home & Garden,4,241.05,964.2,South,In-Store,61,4.5
+ORD-0480,2024-09-05,Toys Item 8,Toys,1,170.51,170.51,North,Online,54,3.4
+ORD-0481,2024-12-24,Clothing Item 23,Clothing,3,70.91,212.73,South,In-Store,59,4.4
+ORD-0482,2024-10-27,Home & Garden Item 17,Home & Garden,2,63.35,126.7,South,Online,29,3.7
+ORD-0483,2024-09-03,Electronics Item 19,Electronics,5,143.76,718.8,North,In-Store,24,1.8
+ORD-0484,2024-11-21,Food Item 16,Food,3,113.56,340.68,North,In-Store,57,1.3
+ORD-0485,2024-06-20,Sports Item 43,Sports,3,150.89,452.67,East,Mobile App,55,1.6
+ORD-0486,2024-03-01,Toys Item 21,Toys,3,288.0,864.0,South,Online,63,4.0
+ORD-0487,2024-03-22,Beauty Item 47,Beauty,3,253.62,760.86,East,In-Store,47,2.8
+ORD-0488,2024-03-21,Books Item 39,Books,4,169.97,679.88,North,In-Store,26,4.6
+ORD-0489,2024-11-03,Sports Item 47,Sports,3,222.72,668.16,North,Online,50,3.5
+ORD-0490,2024-01-18,Beauty Item 17,Beauty,5,71.69,358.45,Central,Mobile App,48,3.6
+ORD-0491,2024-10-24,Home & Garden Item 19,Home & Garden,3,123.81,371.43,South,In-Store,50,3.0
+ORD-0492,2024-11-08,Beauty Item 40,Beauty,3,155.62,466.86,South,Mobile App,26,2.8
+ORD-0493,2024-11-28,Home & Garden Item 10,Home & Garden,5,285.12,1425.6,West,In-Store,20,1.9
+ORD-0494,2024-06-08,Food Item 3,Food,2,28.22,56.44,South,Mobile App,41,2.6
+ORD-0495,2024-11-11,Food Item 7,Food,1,21.56,21.56,Central,Mobile App,35,4.3
+ORD-0496,2024-03-13,Books Item 42,Books,5,167.85,839.25,West,In-Store,55,3.6
+ORD-0497,2024-04-17,Clothing Item 26,Clothing,5,82.95,414.75,East,In-Store,49,4.2
+ORD-0498,2024-08-06,Electronics Item 15,Electronics,5,265.78,1328.9,North,Mobile App,59,2.1
+ORD-0499,2024-10-23,Home & Garden Item 8,Home & Garden,2,55.62,111.24,South,In-Store,39,3.9
+ORD-0500,2024-10-06,Food Item 42,Food,4,148.91,595.64,West,Online,33,1.2
